@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+
+}
+
+.cart-sym{
+    position: relative;
+}
+.cart-wrap{
+    position: absolute;
+    top: -0.2rem;
+    right: -0.1rem;
+}
